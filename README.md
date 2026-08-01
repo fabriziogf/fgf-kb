@@ -1,4 +1,4 @@
-# fgf-knowledge-base
+# fgf-kb
 
 A version-controlled markdown knowledge base, built from handwritten notes by
 [NoteKB](https://github.com/fabriziogf/noteKB).
